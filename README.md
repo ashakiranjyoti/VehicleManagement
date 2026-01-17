@@ -25,7 +25,7 @@ A lightweight PHP/MySQL web application to manage vehicles, services, tools, eng
 ## Getting Started (Run locally)
 
 1. Install XAMPP (Apache + PHP + MySQL) on Windows.
-2. Copy the project into XAMPP's `htdocs` folder as `soft_vehicle_management`.
+2. Copy the project into XAMPP's `htdocs` folder as `VehicleManagement`.
 3. Start Apache and MySQL from the XAMPP control panel.
 4. Import the database dump:
 
