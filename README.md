@@ -38,7 +38,7 @@ A lightweight PHP/MySQL web application to manage vehicles, services, tools, eng
 
 5. Edit database connection if needed: `config/database.php` (host, username, password, database).
 6. (Optional) Update `BASE_URL` in `includes/auth.php` if the app is hosted in a different subdirectory.
-7. Open the app in your browser: `http://localhost/soft_vehicle_management` and log in.
+7. Open the app in your browser: `http://localhost/VehicleManagement` and log in.
 
 ## Important Files & Folders
 
